@@ -1,7 +1,8 @@
 ### Hi, I'm Lucas 👋
 
-Software Engineer from Brazil with ~6 years building web and mobile products: e-commerce, multi-brand CMS platforms and React Native apps.
-I like performance work (took a Next.js app's LCP from 7s to 1.46s), clean front-end architecture, and giving non-dev teams tools they can use on their own.
+Software Engineer from Brazil. I build web and mobile apps, mostly with React, Next.js, React Native and Node.js.
+
+I've spent most of my career on e-commerce and content-driven products, working across front end, back end and mobile, and I enjoy building things that are fast, well structured and easy for teams to work with.
 
 #### Languages & tools
 ![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,graphql,tailwind,postgres,docker,jest,githubactions,git&perline=12)
